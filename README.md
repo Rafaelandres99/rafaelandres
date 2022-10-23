@@ -87,3 +87,37 @@ inicio
 </font>
 </head>
 </html>
+<html>
+<head>
+<body>
+<style type="text/css">
+Body{
+Background:url(bosque.jpg);
+Background-size:100% 100%;
+}
+</style>
+</body>
+<title> El Jaguar </title>
+<font color="white">
+<center><h1> El Jaguar </h1></center>
+<center><img src="jaguar.jpg" width="500" height="400" /></center>
+<center><a href="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.javeriana.edu.co%2Fpesquisa%2Fel-jaguar-en-colombia-por-que-ataca-y-como-solucionarlo%2F&psig=AOvVaw36FKiPe0hER3i5Jch0nVLr&ust=1666567999054000&source=images&cd=vfe&ved=0CA0QjRxqFwoTCOjkrN7_9PoCFQAAAAAdAAAAABAE">Enlace de imagen</a></center>
+<p>
+El jaguar es capaz de habitar en distintos ecosistemas -incluidos manglares, bosques de pino templado, desiertos e incluso áreas montañosas- pero prefiere las selvas bajas tropicales y los bosques subtropicales ubicados a menos de mil metros de altura.
+</p>
+<p>
+Este felino es el llamado "tigre de América", por ser el más grande que habita en el continente. Su aspecto general es tosco y macizo; un jaguar adulto puede medir entre 1.12 y 1.85 m de largo, sin incluir la cola, la cual oscila entre 45 y 75 cm de longitud, y alcanza 60 cm a la altura de la cruz.
+</p>
+<p>
+Las principales amenazas para el jaguar son la pérdida y la fragmentación del hábitat por la agricultura, ganadería y el desarrollo urbano; el agotamiento de las presas y la cacería directa, debido al comercio ilegal
+</p>
+<nav>
+<ul>
+<li>
+<a href="Biobot.html">
+inicio
+</a>
+</nav>
+</font>
+</head>
+</html>
